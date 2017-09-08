@@ -9,7 +9,7 @@
           <DataTemplate>
             <ViewCell>
               <Grid>
-                <Label Text="{Binding CustomerID}" />
+                <Label Text="{Binding CustomerId}" />
                 <Label Text="{Binding ContactName}" />
               </Grid>
             </ViewCell>

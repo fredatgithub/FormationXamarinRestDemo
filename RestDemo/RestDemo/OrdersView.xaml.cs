@@ -7,8 +7,9 @@ using Newtonsoft.Json;
 using RestDemo.Model;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using System.Net.WebClient;
-
+using System.Net;
+using System.IO;
+using System.Net.Http;
 
 namespace RestDemo
 {
